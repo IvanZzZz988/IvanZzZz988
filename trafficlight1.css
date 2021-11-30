@@ -1,0 +1,48 @@
+#traffic_light{
+    float:left;
+    width: 70px;
+    height: 210px;
+    border: 2px solid white; 
+    border-radius: 25px;
+    margin-left: 400px;
+    background-color: rgb(20, 19, 19);
+
+}
+.colors{
+    width: 60px;
+    height: 60px;
+    border: 2px solid white;
+    border-radius: 60px;
+    margin: 3px;
+
+}
+#traffic_light1{
+    float:right;
+    width: 70px;
+    height: 210px;
+    border: 2px solid white;
+    border-radius: 25px;
+    margin-right: 400px;
+    background-color:rgb(20, 19, 19);
+
+}
+.colors1{
+    width: 60px;
+    height: 60px;
+    border: 2px solid white;
+    border-radius: 60px;
+    margin: 3px;
+
+}
+#scroll{
+    width: 400px;
+    height: 200px;
+    border: 1px solid rgb(149, 233, 146);
+    border-radius: 20px;
+    background:rgb(149, 233, 146);
+    margin: 200px auto;
+    line-height: 200px;
+    font-size: 4em;
+    text-align: center;
+
+}
